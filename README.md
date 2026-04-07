@@ -1,156 +1,215 @@
 # LearningAI
 
-LearningAI is a prompt library for building a beginner friendly Astro website called Learn AI the American Way.
-
-This repository stores the step by step prompt files used to generate, refine, review, and deploy the tutorial website in a separate project repository.
+This repository has two purposes. It is a library of lesson prompts for beginners learning about AI, and it is the site build prompt library for creating the Learn AI the American Way Astro website.
 
 ## Who this is for
 
-1. Builders creating an AI education site for non technical users.
-2. Writers who want structured prompt driven page generation.
-3. Maintainers who need a repeatable workflow for content, design, SEO, and deployment improvements.
+- Learners who want a structured AI lesson on a specific topic
+- Builders creating the Learn AI the American Way website
+- Writers who want structured prompt-driven page generation
+- Maintainers working on content, design, SEO, and deployment
 
 ## Repository layout
 
-1. [README.md](README.md): setup and workflow guide.
-2. [prompts](prompts): ordered prompt files from planning through deployment and maintenance.
-
-Prompt files follow a numbered naming pattern so they can be run in order.
-
-## Recommended run order
-
-1. Start with the prompts index: [prompts/README.md](prompts/README.md).
-2. Run foundation prompts in order:
-   1. [prompts/01-Setup-Plan-GitHubPagesSite.md](prompts/01-Setup-Plan-GitHubPagesSite.md)
-   2. [prompts/02-Setup-Generate-BaseFiles.md](prompts/02-Setup-Generate-BaseFiles.md)
-   3. [prompts/03-Build-Create-AstroStarter.md](prompts/03-Build-Create-AstroStarter.md)
-3. Continue sequentially through the remaining numbered prompts.
-
-## Prerequisites
-
-1. Git.
-2. VS Code.
-3. GitHub Copilot Chat in VS Code.
-4. Node.js 20 LTS or newer for the Astro website project.
-5. An Astro project repository where generated site files will be created and edited.
-
-## Recommended working model
-
-Use two repositories.
-
-1. Prompt repo: this repository, LearningAI.
-2. Site repo: your Astro website codebase, for example a repo named LearnAI.
-
-The prompt files in this repo instruct your coding agent what to build or refine in the site repo.
-
-## Quick start
-
-### Step 1: Clone this prompt repository
-
-```powershell
-git clone https://github.com/mickpletcher/LearningAI.git
-cd LearningAI
+```
+LearningAI/
+├── README.md                          (you are here)
+├── LESSON-TEMPLATE.md                 Template for creating new lessons
+├── LICENSE                            MIT license
+├── .gitignore                         Git exclusions
+└── prompts/
+    ├── lessons/                       Lesson prompts for learners
+    │   ├── README.md                  Lesson index and navigation
+    │   ├── what-is-ai.md              
+    │   ├── writing-better-prompts.md 
+    │   ├── understanding-ai-output.md 
+    │   ├── free-ai-tools.md           
+    │   ├── everyday-uses.md           
+    │   ├── ai-at-work.md              
+    │   ├── ai-for-small-business.md   
+    │   └── ai-safety-and-privacy.md   
+    └── site/                          Site build prompts (numbered 01-75)
+        ├── README.md                  Site build guide and workflow
+        ├── 01-Setup-Plan-GitHubPagesSite.md
+        ├── 02-Setup-Generate-BaseFiles.md
+        └── ... (all numbered prompts through 75)
 ```
 
-### Step 2: Create or open your Astro site repository
+## For learners: How to use a lesson prompt
 
-If you already have a site repo, open it in VS Code.
+1. Open [prompts/lessons/](prompts/lessons/) and browse the index in [prompts/lessons/README.md](prompts/lessons/README.md)
+2. Pick a topic you want to learn about
+3. Open the lesson prompt file for that topic
+4. Copy the full prompt text (select all and copy)
+5. Paste it into Claude, ChatGPT, Gemini, Copilot, or any AI assistant
+6. The AI will generate a complete structured lesson
 
-If you need one, create a new empty repo and clone it locally.
+### What each lesson produces
 
-### Step 3: Run prompts in order
+- Plain English explanation of the topic
+- Why it matters in real life
+- Concrete everyday examples
+- Practice prompts to try yourself
+- What to watch out for section
+- Short quiz to check understanding
+- Suggestions for what to learn next
 
-1. Open a prompt file from [prompts](prompts), starting with [prompts/01-Setup-Plan-GitHubPagesSite.md](prompts/01-Setup-Plan-GitHubPagesSite.md).
-2. Copy the full prompt text.
-3. Paste it into Copilot Chat while your site repo is the active workspace.
-4. Let the coding agent generate or update files.
-5. Review changes, test locally, and commit.
-6. Move to the next numbered prompt.
+## For builders: How to use the site build prompts
 
-## Suggested execution phases
+See [prompts/site/README.md](prompts/site/README.md) for full site build workflow, execution phases, local development instructions, deployment checklist, and troubleshooting guidance.
 
-1. Setup and scaffolding:
-   1. [prompts/01-Setup-Plan-GitHubPagesSite.md](prompts/01-Setup-Plan-GitHubPagesSite.md)
-   2. [prompts/02-Setup-Generate-BaseFiles.md](prompts/02-Setup-Generate-BaseFiles.md)
-   3. [prompts/03-Build-Create-AstroStarter.md](prompts/03-Build-Create-AstroStarter.md)
-2. Core content and structure:
-   1. Prompts in the 04 to 25 range.
-3. Expansion packs and cluster refinements:
-   1. Prompts in the 26 to 75 range.
-4. Deployment and maintenance:
-   1. Deployment and workflow prompts such as 10, 30, 40, 50, 60, and 70.
+The prompts are numbered 01-75 and designed to be run sequentially using GitHub Copilot Chat in VS Code. Each prompt generates code for the Learn AI the American Way Astro website.
 
-## Local development for the site repository
+Prerequisites:
 
-Run these commands in your Astro site repo, not in this prompt repo.
+- Git
+- VS Code with GitHub Copilot Chat
+- Node.js 20 LTS or newer
+- A separate Astro project repository (created by the setup prompts)
 
-```powershell
-npm install
-npm run dev
-```
+## How to add a new lesson prompt
 
-Build check:
+See [LESSON-TEMPLATE.md](LESSON-TEMPLATE.md) for complete instructions on creating new lessons.
 
-```powershell
-npm run build
-```
+Quick version:
 
-## Commit strategy
-
-Use small commits after each prompt or small prompt batch.
-
-Good pattern:
-
-1. Run 1 prompt.
-2. Verify output and links.
-3. Run local build.
-4. Commit.
-
-This keeps regressions easy to isolate.
-
-## GitHub Pages deployment notes
-
-Deployment is handled in your Astro site repo.
-
-Use this checklist:
-
-1. Set site and base correctly in astro.config.mjs for your repo name.
-2. Confirm GitHub Actions deployment workflow exists and has permissions.
-3. Ensure Pages is configured to deploy from GitHub Actions.
-4. Push to main and watch the workflow complete.
-5. Test the live URL for CSS and asset loading.
-
-## Troubleshooting
-
-### CSS or assets missing in production
-
-1. Check Astro base path in astro.config.mjs.
-2. Confirm links are root relative or base aware.
-
-### 404 pages after deploy
-
-1. Verify route file names in src/pages.
-2. Check base path and internal links.
-
-### Workflow runs but site does not publish
-
-1. Verify GitHub Pages source is GitHub Actions.
-2. Verify workflow permissions include pages and id token.
-
-### Prompt output is inconsistent
-
-1. Re run the same prompt with clear scope.
-2. Apply smaller follow up prompts for corrections.
-3. Commit only after build passes.
-
-## How to add more prompt files
-
-1. Use the next number in sequence.
-2. Keep naming consistent with current format.
-3. Keep each prompt scoped to one concrete objective.
-4. Include explicit files to create or update.
-5. Include constraints and output requirements.
+1. Copy the template from LESSON-TEMPLATE.md
+2. Fill in all bracketed sections with real content
+3. Save as `topic-name.md` in `prompts/lessons/`
+4. Add it to the index in `prompts/lessons/README.md`
 
 ## License
 
-See [LICENSE](LICENSE).
+MIT License. See [LICENSE](LICENSE).
+
+## Quick start
+
+### For lesson learners
+
+```bash
+# No setup needed
+# Go to prompts/lessons/README.md
+# Pick a topic
+# Copy and paste the lesson prompt into your AI assistant
+```
+
+### For site builders
+
+```bash
+# Prerequisites: Node.js 20 LTS, Git, VS Code with Copilot Chat
+
+# 1. Clone this repo (the prompts)
+git clone https://github.com/mickpletcher/LearningAI.git
+cd LearningAI
+
+# 2. Create a separate Astro site repo
+mkdir ~/LearnAI-Site
+cd ~/LearnAI-Site
+git init
+
+# 3. Open prompts/site/01-Setup-Plan-GitHubPagesSite.md
+# Copy the prompt and paste into Copilot Chat
+# Follow the generated code changes
+# Code is generated. You stage, review, commit.
+
+# 4. Run the setup prompts sequentially (01-10 are foundation)
+# Then continue with content, SEO, design, and deployment prompts
+
+# 5. Test locally
+npm install
+npm run dev
+
+# 6. Deploy to GitHub Pages
+# Follow prompt 10 and prompt 30 for deployment setup
+```
+
+## Recommended run order
+
+1. Start with the lesson index: [prompts/lessons/README.md](prompts/lessons/README.md)
+2. If you are building the site, start here: [prompts/site/01-Setup-Plan-GitHubPagesSite.md](prompts/site/01-Setup-Plan-GitHubPagesSite.md)
+3. Continue through prompts sequentially ([02](prompts/site/02-Setup-Generate-BaseFiles.md), [03](prompts/site/03-Build-Create-AstroStarter.md), and beyond)
+
+## How these prompts work
+
+- Each prompt is designed as a single turn in GitHub Copilot Chat (or compatible AI assistant)
+- You paste the prompt, it generates code and guidance
+- You review the code changes, stage them in git, commit
+- You move to the next prompt
+- Each prompt builds on the previous one
+- The prompts assume you are actively reviewing and committing generated code
+
+
+This two-repo model lets you:
+- Maintain the prompt library as a tool others can use
+- Keep your actual site repository clean and separate
+- Run the prompts multiple times if needed
+- Share the workflow with other builders
+
+## Commit strategy
+
+Commit after each prompt runs. Use the commit message generated in the prompt or write your own describing what the prompt generated.
+
+Pattern: `[prompt-phase] description of what was created`
+
+Example: `[setup] create base Astro project with GitHub Pages config`
+
+When you accumulate several commits (after running 5-10 prompts), create a summary commit or tag the phase completed.
+
+## GitHub Pages deployment checklist
+
+Before going live:
+
+- [ ] Domain configured in GitHub Pages settings
+- [ ] CNAME file created in `public/` (if using custom domain)
+- [ ] GitHub Actions workflow passing (see prompt 10)
+- [ ] Local `npm run build` produces clean output
+- [ ] No broken internal links (see prompt 15)
+- [ ] Search and metadata complete (see prompt 23)
+- [ ] Production build tested locally
+- [ ] All content proofread for tone and accuracy
+- [ ] SEO metadata complete
+- [ ] Trust signals and credibility sections present
+
+See [prompts/site/30-Deploy-Prepare-CustomDomain.md](prompts/site/30-Deploy-Prepare-CustomDomain.md) for detailed deployment steps.
+
+## Troubleshooting
+
+
+- Make sure you are using GitHub Copilot Chat (not regular Chat in VS Code)
+- Paste the full prompt text (copy from the file)
+- If still stuck, try a simpler prompt like 02 first to verify Copilot works
+
+**Generated code has errors:**
+
+- Run `npm run dev` to see errors
+- Most errors are caught by the build system
+- Go back one or two prompts and rerun if you got off track
+
+**Astro not installing:**
+
+- Check Node version: `node --version` (needs 20.0 or higher)
+- Try `npm install` again
+- Delete `node_modules` and `package-lock.json`, then reinstall
+
+**GitHub Pages not deploying:**
+
+- Check GitHub Actions tab in your site repository
+- Look for workflow errors
+- See [prompts/site/10-Deploy-Prepare-GitHubPages.md](prompts/site/10-Deploy-Prepare-GitHubPages.md) for setup checklist
+- Custom domain setup: [prompts/site/30-Deploy-Prepare-CustomDomain.md](prompts/site/30-Deploy-Prepare-CustomDomain.md)
+
+**Cannot find prompts/site/README.md:**
+
+**Cannot find prompts/site/README.md:**
+- You might be in the lesson prompts. Remember two folders: `prompts/lessons/` for learning and `prompts/site/` for building the website.
+
+## Getting help
+
+- Read the prompt file itself for detailed explanation of what it does
+- Check [prompts/site/README.md](prompts/site/README.md) for the full site build workflow
+- Most problems come from running prompts out of order or skipping setup
+- Start over with setup prompts (01-03) if something feels off
+
+---
+
+**Writing style:** Plain English, short sentences, no jargon.
