@@ -1,7 +1,7 @@
 You are helping build a GitHub Pages website using Astro.
 
 Project name:
-Learn AI the American Way
+LearnAI
 
 Project goal:
 Create the initial structure for a beginner friendly educational website that teaches people with zero AI background how to understand and use AI in everyday life.
