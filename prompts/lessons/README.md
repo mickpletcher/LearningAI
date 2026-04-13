@@ -1,12 +1,24 @@
 # Lesson Prompts Index
 
-Find your topic. Open the file. Copy the full prompt text. Paste it into Claude, ChatGPT, Gemini, Copilot, or any AI assistant. The AI will generate a complete structured lesson.
+This folder is for people who want simple AI lessons.
+
+You do not need coding skills.
+
+## 60 second quick start
+
+1. Click one lesson file below.
+2. Open the file.
+3. Copy all text in that file.
+4. Paste it into ChatGPT, Claude, Gemini, or Copilot.
+5. Press Enter.
+6. Read the lesson.
+
+Tip: Ask the AI, "Explain this like I am brand new," if anything feels confusing.
 
 ## All lesson prompts
 
 | File | Topic | Good for |
 | ---- | ----- | -------- |
-| [00-ai-learning-roadmap.md](00-ai-learning-roadmap.md) | AI Learning Roadmap | Getting a complete beginner sequence before you start |
 | [01-what-is-ai.md](01-what-is-ai.md) | What Is AI | Understanding AI in plain language |
 | [02-everyday-uses-for-ai.md](02-everyday-uses-for-ai.md) | Everyday Uses for AI | Finding practical daily use cases |
 | [03-writing-better-prompts.md](03-writing-better-prompts.md) | Writing Better Prompts | Getting better responses consistently |
@@ -33,9 +45,24 @@ Find your topic. Open the file. Copy the full prompt text. Paste it into Claude,
 | [24-using-ai-without-getting-overwhelmed.md](24-using-ai-without-getting-overwhelmed.md) | Use AI Without Overwhelm | Keeping a simple repeatable workflow |
 | [25-when-not-to-use-ai.md](25-when-not-to-use-ai.md) | When Not to Use AI | Knowing limits and choosing non AI options |
 
-## How to add a new lesson
+## Suggested lesson order for beginners
 
-1. Open [lesson-template.md](lesson-template.md) in this folder
+1. [01-what-is-ai.md](01-what-is-ai.md)
+2. [02-everyday-uses-for-ai.md](02-everyday-uses-for-ai.md)
+3. [03-writing-better-prompts.md](03-writing-better-prompts.md)
+4. [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md)
+5. Continue in number order.
+
+## If you get stuck
+
+1. Copy and paste the prompt again.
+2. Tell the AI to use shorter answers.
+3. Tell the AI to use one real world example.
+4. Move to the next lesson and come back later.
+
+## For maintainers only
+
+1. Open [LESSON-TEMPLATE.md](../../LESSON-TEMPLATE.md)
 2. Follow the instructions at the top of the template
 3. Copy the prompt skeleton (everything below the divider line)
 4. Fill in all the bracketed sections with your topic-specific content
@@ -44,4 +71,4 @@ Find your topic. Open the file. Copy the full prompt text. Paste it into Claude,
 7. Add the new lesson to the table above with its file, topic, and "Good for" description
 8. Include cross-references in your "What to learn next" section pointing to related lessons
 
-Start with [lesson-template.md](lesson-template.md) when you are ready to create a new lesson.
+Start with [LESSON-TEMPLATE.md](../../LESSON-TEMPLATE.md) when you are ready to create a new lesson.
