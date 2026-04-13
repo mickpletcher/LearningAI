@@ -1,6 +1,6 @@
 # LearningAI Lesson Library
 
-This folder contains 25 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+This folder contains 26 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -84,6 +84,7 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 23 | [23-using-ai-to-learn-faster.md](23-using-ai-to-learn-faster.md) | Active learning |
 | 24 | [24-using-ai-without-getting-overwhelmed.md](24-using-ai-without-getting-overwhelmed.md) | Managing cognitive load |
 | 25 | [25-when-not-to-use-ai.md](25-when-not-to-use-ai.md) | Knowing limitations |
+| 26 | [26-using-ai-for-meal-planning.md](26-using-ai-for-meal-planning.md) | Meal planning and weekly food prep |
 
 ## Lesson format
 
@@ -112,7 +113,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. The 25 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. The 26 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 

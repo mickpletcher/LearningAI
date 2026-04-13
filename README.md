@@ -62,16 +62,16 @@ Work through these lessons in order. Each builds on the previous one.
 9. [09-ai-for-spreadsheets.md](prompts/lessons/09-ai-for-spreadsheets.md) — AI for data work
 10. [10-ai-for-coding-beginners.md](prompts/lessons/10-ai-for-coding-beginners.md) — no code required, but foundations
 
-After lesson 10, continue in numerical order or skip to topics that match your needs. All 25 lessons are available in [prompts/lessons/README.md](prompts/lessons/README.md).
+After lesson 10, continue in numerical order or skip to topics that match your needs. All 26 lessons are available in [prompts/lessons/README.md](prompts/lessons/README.md).
 
 ## Repository structure
 
 - **README.md** — this guide
 - **LESSON-TEMPLATE.md** — template and instructions for authors who want to create new lessons
 - **LICENSE** — MIT license
-- **prompts/lessons/** — all lesson files (01-25)
+- **prompts/lessons/** — all lesson files (01-26)
   - README.md — full lesson catalog and topic descriptions
-  - 01-what-is-ai.md through 25-when-not-to-use-ai.md — individual lesson files
+  - 01-what-is-ai.md through 26-using-ai-for-meal-planning.md — individual lesson files
 
 ## Lesson format
 
@@ -104,7 +104,7 @@ The lessons assume you know nothing about AI but are capable and curious. They t
 
 ## Current status
 
-This is an actively maintained learning library. The core curriculum (25 foundational and practical lessons) is complete and stable. The library is expanding with additional lesson tracks for specialized topics.
+This is an actively maintained learning library. The core curriculum (26 foundational and practical lessons) is complete and stable. The library is expanding with additional lesson tracks for specialized topics.
 
 ## Contributing
 

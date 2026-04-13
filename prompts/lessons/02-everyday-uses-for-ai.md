@@ -306,6 +306,7 @@ As useful input, not as the final answer. Check important details and use your o
 
 ## What to learn next
 
+- Read [26-using-ai-for-meal-planning.md](26-using-ai-for-meal-planning.md) for a focused everyday use case
 - Read [03-writing-better-prompts.md](03-writing-better-prompts.md) to learn how to ask AI for better results
 - Read [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md) to understand what is safe to share
 - Read [05-understanding-ai-output.md](05-understanding-ai-output.md) to learn how to review AI output critically

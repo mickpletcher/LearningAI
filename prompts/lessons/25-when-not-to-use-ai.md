@@ -253,6 +253,7 @@ It can help with preparation, summaries, question generation, or organization, w
 
 ## What to learn next
 
+- Read [26-using-ai-for-meal-planning.md](26-using-ai-for-meal-planning.md) to practice a practical everyday AI workflow
 - Read [24-using-ai-without-getting-overwhelmed.md](24-using-ai-without-getting-overwhelmed.md) to keep AI use practical
 - Read [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md) to understand safe and responsible AI use
 - Read [12-common-ai-mistakes.md](12-common-ai-mistakes.md) to recognize patterns to avoid
