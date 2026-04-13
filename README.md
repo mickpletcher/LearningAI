@@ -4,7 +4,7 @@ An interactive markdown-based lesson library for learning AI fundamentals withou
 
 ## Overview
 
-LearningAI is a structured curriculum of 25+ lessons designed to teach AI concepts and practical skills to complete beginners. Each lesson is a portable markdown file that runs as an interactive guided session in ChatGPT, Claude, Gemini, or Copilot.
+LearningAI is a structured curriculum of 40 lessons designed to teach AI concepts and practical skills to complete beginners. Each lesson is a portable markdown file that runs as an interactive guided session in ChatGPT, Claude, Gemini, or Copilot.
 
 Unlike generic prompt collections, these lessons include interaction rules, guided progression, state tracking, and supported commands. You paste a lesson file into an AI chat tool and work through structured, step-by-step learning with built-in exercises, checks, and guidance for what to learn next.
 
@@ -12,7 +12,7 @@ No coding. No setup. No account fees. Just copy, paste, and learn.
 
 ## Key features
 
-- **25+ structured lessons** covering AI fundamentals, practical skills, and safety
+- **40 structured lessons** covering AI fundamentals, practical skills, and safety
 - **Interactive format** with guided progression, state management, and supported commands built into each lesson
 - **Beginner focused** written in plain language with real examples and practical exercises
 - **Portable** works in any AI chat tool that supports markdown
@@ -62,16 +62,16 @@ Work through these lessons in order. Each builds on the previous one.
 9. [09-ai-for-spreadsheets.md](prompts/lessons/09-ai-for-spreadsheets.md) — AI for data work
 10. [10-ai-for-coding-beginners.md](prompts/lessons/10-ai-for-coding-beginners.md) — no code required, but foundations
 
-After lesson 10, continue in numerical order or skip to topics that match your needs. All 26 lessons are available in [prompts/lessons/README.md](prompts/lessons/README.md).
+After lesson 10, continue in numerical order or skip to topics that match your needs. All 40 lessons are available in [prompts/lessons/README.md](prompts/lessons/README.md).
 
 ## Repository structure
 
 - **README.md** — this guide
 - **LESSON-TEMPLATE.md** — template and instructions for authors who want to create new lessons
 - **LICENSE** — MIT license
-- **prompts/lessons/** — all lesson files (01-26)
+- **prompts/lessons/** — all lesson files (01-40)
   - README.md — full lesson catalog and topic descriptions
-  - 01-what-is-ai.md through 26-using-ai-for-meal-planning.md — individual lesson files
+  - 01-what-is-ai.md through 40-using-ai-for-learning-new-hobbies.md — individual lesson files
 
 ## Lesson format
 
@@ -104,7 +104,7 @@ The lessons assume you know nothing about AI but are capable and curious. They t
 
 ## Current status
 
-This is an actively maintained learning library. The core curriculum (26 foundational and practical lessons) is complete and stable. The library is expanding with additional lesson tracks for specialized topics.
+This is an actively maintained learning library. The core curriculum (40 foundational and practical lessons) is complete and stable. The library is expanding with additional lesson tracks for specialized topics.
 
 ## Contributing
 

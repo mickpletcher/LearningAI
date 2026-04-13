@@ -1,6 +1,6 @@
 # LearningAI Lesson Library
 
-This folder contains 26 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+This folder contains 40 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -85,6 +85,20 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 24 | [24-using-ai-without-getting-overwhelmed.md](24-using-ai-without-getting-overwhelmed.md) | Managing cognitive load |
 | 25 | [25-when-not-to-use-ai.md](25-when-not-to-use-ai.md) | Knowing limitations |
 | 26 | [26-using-ai-for-meal-planning.md](26-using-ai-for-meal-planning.md) | Meal planning and weekly food prep |
+| 27 | [27-using-ai-for-grocery-lists.md](27-using-ai-for-grocery-lists.md) | Grocery planning and shopping lists |
+| 28 | [28-using-ai-for-travel-planning.md](28-using-ai-for-travel-planning.md) | Trip planning and itinerary structure |
+| 29 | [29-using-ai-for-budget-planning.md](29-using-ai-for-budget-planning.md) | Personal budgeting and spending plans |
+| 30 | [30-using-ai-for-home-projects.md](30-using-ai-for-home-projects.md) | Home project planning and scoping |
+| 31 | [31-using-ai-for-fitness-planning.md](31-using-ai-for-fitness-planning.md) | Fitness routine planning |
+| 32 | [32-using-ai-for-habit-tracking.md](32-using-ai-for-habit-tracking.md) | Habit systems and consistency tracking |
+| 33 | [33-using-ai-for-reading-and-book-recommendations.md](33-using-ai-for-reading-and-book-recommendations.md) | Reading lists and book selection |
+| 34 | [34-using-ai-for-movie-and-show-recommendations.md](34-using-ai-for-movie-and-show-recommendations.md) | Show and movie recommendations |
+| 35 | [35-using-ai-for-gift-ideas.md](35-using-ai-for-gift-ideas.md) | Gift idea generation and filtering |
+| 36 | [36-using-ai-for-personal-journaling.md](36-using-ai-for-personal-journaling.md) | Guided reflection and journaling prompts |
+| 37 | [37-using-ai-for-family-scheduling.md](37-using-ai-for-family-scheduling.md) | Family calendar and schedule planning |
+| 38 | [38-using-ai-for-event-planning.md](38-using-ai-for-event-planning.md) | Event planning and execution checklists |
+| 39 | [39-using-ai-for-household-organization.md](39-using-ai-for-household-organization.md) | Household systems and organization |
+| 40 | [40-using-ai-for-learning-new-hobbies.md](40-using-ai-for-learning-new-hobbies.md) | Hobby discovery and learning plans |
 
 ## Lesson format
 
@@ -113,7 +127,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. The 26 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. The 40 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 

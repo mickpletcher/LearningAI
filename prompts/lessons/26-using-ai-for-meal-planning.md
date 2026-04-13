@@ -277,7 +277,7 @@ The plan may sound good but not match your actual schedule, food preferences, po
 
 ## What to learn next
 
-- Read [27-using-ai-for-grocery-lists.md](27-using-ai-for-grocery-lists.md) if that lesson exists next in your curriculum
+- Read [27-using-ai-for-grocery-lists.md](27-using-ai-for-grocery-lists.md) for the next practical planning step
 - Read [20-using-ai-to-build-checklists.md](20-using-ai-to-build-checklists.md) to turn meal planning into a repeatable routine
 - Read [21-using-ai-to-create-templates.md](21-using-ai-to-create-templates.md) to build a reusable weekly meal planning template
 
