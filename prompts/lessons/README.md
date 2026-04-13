@@ -57,6 +57,8 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 
 ## Full lesson catalog
 
+### Foundation (lessons 1-9)
+
 | # | Lesson | Focus |
 | --- | --- | --- |
 | 1 | [01-what-is-ai.md](01-what-is-ai.md) | Understanding AI fundamentals |
@@ -68,6 +70,11 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 7 | [07-using-ai-for-writing.md](07-using-ai-for-writing.md) | Writing and editing |
 | 8 | [08-using-ai-for-research.md](08-using-ai-for-research.md) | Research and gathering information |
 | 9 | [09-ai-for-spreadsheets.md](09-ai-for-spreadsheets.md) | Data and spreadsheets |
+
+### Beginner practical skills (lessons 10-25)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
 | 10 | [10-ai-for-coding-beginners.md](10-ai-for-coding-beginners.md) | Code concepts |
 | 11 | [11-using-ai-for-planning-and-decision-making.md](11-using-ai-for-planning-and-decision-making.md) | Planning and decisions |
 | 12 | [12-common-ai-mistakes.md](12-common-ai-mistakes.md) | Troubleshooting |
@@ -84,6 +91,11 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 23 | [23-using-ai-to-learn-faster.md](23-using-ai-to-learn-faster.md) | Active learning |
 | 24 | [24-using-ai-without-getting-overwhelmed.md](24-using-ai-without-getting-overwhelmed.md) | Managing cognitive load |
 | 25 | [25-when-not-to-use-ai.md](25-when-not-to-use-ai.md) | Knowing limitations |
+
+### Everyday life and personal productivity (lessons 26-40)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
 | 26 | [26-using-ai-for-meal-planning.md](26-using-ai-for-meal-planning.md) | Meal planning and weekly food prep |
 | 27 | [27-using-ai-for-grocery-lists.md](27-using-ai-for-grocery-lists.md) | Grocery planning and shopping lists |
 | 28 | [28-using-ai-for-travel-planning.md](28-using-ai-for-travel-planning.md) | Trip planning and itinerary structure |
