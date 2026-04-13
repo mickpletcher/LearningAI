@@ -20,14 +20,15 @@ LearningAI/
 └── prompts/
     ├── lessons/                       Lesson prompts for learners
     │   ├── README.md                  Lesson index and navigation
-    │   ├── what-is-ai.md              
-    │   ├── writing-better-prompts.md 
-    │   ├── understanding-ai-output.md 
-    │   ├── free-ai-tools.md           
-    │   ├── everyday-uses.md           
-    │   ├── ai-at-work.md              
-    │   ├── ai-for-small-business.md   
-    │   └── ai-safety-and-privacy.md   
+    │   ├── 00-ai-learning-roadmap.md
+    │   ├── 01-what-is-ai.md
+    │   ├── 02-everyday-uses-for-ai.md
+    │   ├── 03-writing-better-prompts.md
+    │   ├── 04-ai-safety-and-privacy.md
+    │   ├── 05-understanding-ai-output.md
+    │   ├── ... (continues through 25)
+    │   ├── 25-when-not-to-use-ai.md
+    │   └── lesson-template.md
     └── site/                          Site build prompts (numbered 01-75)
         ├── README.md                  Site build guide and workflow
         ├── 01-Setup-Plan-GitHubPagesSite.md
