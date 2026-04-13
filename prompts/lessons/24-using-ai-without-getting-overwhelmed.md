@@ -259,7 +259,7 @@ Because it turns one time success into a reusable system and reduces the need to
 
 - Read [25-when-not-to-use-ai.md](25-when-not-to-use-ai.md) to stay practical about AI's limits
 - Read [21-using-ai-to-create-templates.md](21-using-ai-to-create-templates.md) to build repeatable workflows
-- Read [98-building-a-personal-ai-workflow.md](98-building-a-personal-ai-workflow.md) later for a more advanced version
+- Read [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md) to maintain safe and responsible practices
 
 ## Completion behavior
 

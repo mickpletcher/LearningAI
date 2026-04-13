@@ -276,7 +276,7 @@ Important context, uncertainty, or emphasis may be lost or rearranged in a way t
 
 - Read [20-using-ai-to-build-checklists.md](20-using-ai-to-build-checklists.md) to turn organized notes into actions
 - Read [21-using-ai-to-create-templates.md](21-using-ai-to-create-templates.md) to make reusable structures from recurring notes
-- Read [56-ai-for-meeting-notes.md](56-ai-for-meeting-notes.md) later for a more work specific version
+- Read [09-ai-for-spreadsheets.md](09-ai-for-spreadsheets.md) to organize notes into structured data
 
 ## Completion behavior
 
