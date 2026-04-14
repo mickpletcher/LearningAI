@@ -145,17 +145,17 @@ This lesson library is actively maintained. The 40 foundation and practical less
 
 To write a new lesson for this library:
 
-1. Open [lesson-template.md](lesson-template.md)
+1. Open [lesson-template.md](../lessonscreation/lesson-template.md)
 2. Follow the instructions and fill in all sections with substantive content
 3. Save as `NN-topic-name.md` in this folder (use the next available number)
 4. Update this README to include your lesson in the catalog
 5. Add cross-references in the "What to learn next" section of related lessons
 
-All lessons must follow the writing requirements and tone guidelines in [lesson-template.md](lesson-template.md).
+All lessons must follow the writing requirements and tone guidelines in [lesson-template.md](../lessonscreation/lesson-template.md).
 
 ## Related resources
 
 See the parent directory for more context:
 
 - [../README.md](../README.md) — project overview and getting started
-- [../LESSON-TEMPLATE.md](../LESSON-TEMPLATE.md) — template and author guidelines
+- [../prompts/lessonscreation/lesson-template.md](../prompts/lessonscreation/lesson-template.md) — template and author guidelines

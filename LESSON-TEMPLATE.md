@@ -8,8 +8,8 @@ This is a reusable template for creating new lesson prompts. Authors use this wh
 2. Copy everything below the divider line (starting with "# Lesson: [TOPIC NAME]")
 3. Replace all bracketed sections [LIKE THIS] with your topic-specific content
 4. Read through the full prompt and fill in thoughtful, real content for every section (no placeholders)
-5. Save your file as `your-topic-name.md` in the `prompts/lessons/` folder
-6. Add your new lesson to the index table in `prompts/lessons/README.md`
+5. Save your file as `your-topic-name.md` in the `lessons/` folder
+6. Add your new lesson to the index table in `lessons/README.md`
 7. Include cross-references in your "What to learn next" section linking to related lessons
 
 **Important:** One topic per file. Keep scope tight. One coherent lesson, not a whole course.

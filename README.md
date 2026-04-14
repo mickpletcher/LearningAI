@@ -34,7 +34,7 @@ Each lesson typically takes 15-30 minutes. You do not need to be technical. You 
 
 ## Start here
 
-**First lesson:** Open [01-what-is-ai.md](prompts/lessons/01-what-is-ai.md)
+**First lesson:** Open [01-what-is-ai.md](lessons/01-what-is-ai.md)
 
 **How to use it:**
 
@@ -51,25 +51,25 @@ That is it. No other steps. No registration, no payment, no setup.
 
 Work through these lessons in order. Each builds on the previous one.
 
-1. [01-what-is-ai.md](prompts/lessons/01-what-is-ai.md) — understand what AI is
-2. [02-everyday-uses-for-ai.md](prompts/lessons/02-everyday-uses-for-ai.md) — find practical uses
-3. [03-writing-better-prompts.md](prompts/lessons/03-writing-better-prompts.md) — ask AI better questions
-4. [04-ai-safety-and-privacy.md](prompts/lessons/04-ai-safety-and-privacy.md) — use AI safely
-5. [05-understanding-ai-output.md](prompts/lessons/05-understanding-ai-output.md) — verify AI answers
-6. [06-ai-at-work.md](prompts/lessons/06-ai-at-work.md) — apply AI to common tasks
-7. [07-using-ai-for-writing.md](prompts/lessons/07-using-ai-for-writing.md) — AI for draft writing
-8. [08-using-ai-for-research.md](prompts/lessons/08-using-ai-for-research.md) — AI for information gathering
-9. [09-ai-for-spreadsheets.md](prompts/lessons/09-ai-for-spreadsheets.md) — AI for data work
-10. [10-ai-for-coding-beginners.md](prompts/lessons/10-ai-for-coding-beginners.md) — no code required, but foundations
+1. [01-what-is-ai.md](lessons/01-what-is-ai.md) — understand what AI is
+2. [02-everyday-uses-for-ai.md](lessons/02-everyday-uses-for-ai.md) — find practical uses
+3. [03-writing-better-prompts.md](lessons/03-writing-better-prompts.md) — ask AI better questions
+4. [04-ai-safety-and-privacy.md](lessons/04-ai-safety-and-privacy.md) — use AI safely
+5. [05-understanding-ai-output.md](lessons/05-understanding-ai-output.md) — verify AI answers
+6. [06-ai-at-work.md](lessons/06-ai-at-work.md) — apply AI to common tasks
+7. [07-using-ai-for-writing.md](lessons/07-using-ai-for-writing.md) — AI for draft writing
+8. [08-using-ai-for-research.md](lessons/08-using-ai-for-research.md) — AI for information gathering
+9. [09-ai-for-spreadsheets.md](lessons/09-ai-for-spreadsheets.md) — AI for data work
+10. [10-ai-for-coding-beginners.md](lessons/10-ai-for-coding-beginners.md) — no code required, but foundations
 
-After lesson 10, continue in numerical order or skip to topics that match your needs. All 40 lessons are available in [prompts/lessons/README.md](prompts/lessons/README.md).
+After lesson 10, continue in numerical order or skip to topics that match your needs. All 40 lessons are available in [lessons/README.md](lessons/README.md).
 
 ## Repository structure
 
 - **README.md** — this guide
 - **LESSON-TEMPLATE.md** — template and instructions for authors who want to create new lessons
 - **LICENSE** — MIT license
-- **prompts/lessons/** — all lesson files (01-40)
+- **lessons/** — all lesson files (01-40)
   - README.md — full lesson catalog and topic descriptions
   - 01-what-is-ai.md through 40-using-ai-for-learning-new-hobbies.md — individual lesson files
 
@@ -112,8 +112,8 @@ To propose a new lesson:
 
 1. Open [LESSON-TEMPLATE.md](LESSON-TEMPLATE.md)
 2. Follow the instructions and fill in all sections with substantive content
-3. Save as `NN-topic-name.md` in `prompts/lessons/` (use the next available number)
-4. Update the lesson index in [prompts/lessons/README.md](prompts/lessons/README.md)
+3. Save as `NN-topic-name.md` in `lessons/` (use the next available number)
+4. Update the lesson index in [lessons/README.md](lessons/README.md)
 5. Ensure the lesson includes cross-references to related lessons in the "What to learn next" section
 
 All contributions must follow the Writing Requirements and Tone Requirements in [LESSON-TEMPLATE.md](LESSON-TEMPLATE.md).
