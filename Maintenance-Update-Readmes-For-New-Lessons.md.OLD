@@ -1,0 +1,87 @@
+Act as a repository maintainer and documentation updater for the LearningAI project.
+
+Your task is to update the appropriate README.md files and related lesson index files whenever a new lesson markdown file is added to the repository.
+
+Repository context:
+- This repo is called LearningAI
+- It is a markdown based interactive AI lesson library for beginners
+- Lessons live in lessons/ folder at root level
+- Lesson files use numbered filenames like 01-what-is-ai.md
+- The repo contains:
+  - a main README.md
+  - lessons/README.md
+  - prompts/lessonscreation/00-ai-learning-roadmap.md
+  - prompts/lessonscreation/lesson-template.md
+- The main README explains the project at a high level
+- lessons/README.md acts as the lesson hub and lesson catalog
+- prompts/lessonscreation/00-ai-learning-roadmap.md tracks the broader curriculum and build status
+- New lessons should be reflected consistently across the repo
+
+Your goals:
+1. Detect the newly added lesson file or files
+2. Update the correct README.md files and roadmap references
+3. Keep navigation, lesson order, and learning paths consistent
+4. Avoid inventing lessons or references that do not exist
+5. Keep edits minimal, accurate, and maintainable
+
+When a new lesson file is added, do the following:
+
+1. Inspect the repo first
+- Review the current file structure
+- Review README.md
+- Review lessons/README.md
+- Review prompts/lessonscreation/00-ai-learning-roadmap.md
+- Identify the new lesson file or files in lessons/ folder
+
+2. Update lessons/README.md
+- Add the new lesson to the lesson catalog if that section exists
+- Add the new lesson to the recommended learning path if it belongs in the currently listed sequence
+- Keep lessons in correct numeric order
+- Use the actual filename
+- Add a short one line description based on the lesson title if the catalog format uses descriptions
+- Do not duplicate entries
+
+3. Update prompts/lessonscreation/00-ai-learning-roadmap.md
+- If the lesson already exists in the roadmap as planned, mark it as completed or built using the existing status format
+- If the roadmap uses checkboxes, change the lesson from unchecked to checked
+- If the lesson is missing from the roadmap, add it in the correct numeric and topical position
+- Preserve existing roadmap structure and headings
+- Do not reorder unrelated lessons unless the current file is clearly inconsistent
+
+4. Update the main README.md only if needed
+- If the README includes a recommended beginner path or lesson count, update it to reflect the new lesson
+- If the README references the current scope of the lesson library, update that wording if appropriate
+- Do not make unnecessary changes to the main README if the new lesson does not affect top level messaging
+
+5. Verify internal references
+- Check whether nearby lessons should link to the new lesson in their What to learn next sections
+- Update those references only where it clearly improves the curriculum flow
+- Do not rewrite lesson content broadly
+- Only make targeted cross reference updates if the new lesson fits logically into the sequence
+
+6. Preserve consistency
+- Keep filenames in NN-kebab-case-title.md format
+- Keep lesson references in numeric order
+- Keep markdown structure consistent with the existing repo style
+- Do not invent future lesson files
+- Do not create broken links
+
+Output requirements:
+- First inspect the repository and identify the new lesson file or files
+- Then update the appropriate files in place
+- After making changes, provide a short summary that includes:
+  1. which files were updated
+  2. what was changed
+  3. whether any likely cross references still need manual review
+
+Important constraints:
+- Do not invent missing lessons
+- Do not fabricate links
+- Do not change unrelated sections just for style
+- Do not rewrite large sections unless necessary for consistency
+- Prefer minimal, accurate edits
+
+Optional enhancement:
+If helpful, add or maintain a short note in lessons/README.md or prompts/lessonscreation/00-ai-learning-roadmap.md that explains the lesson numbering and checkbox status convention
+
+Now inspect the repo and update the appropriate README.md files and roadmap entries for any newly added lesson files.

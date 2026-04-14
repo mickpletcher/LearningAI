@@ -1,6 +1,8 @@
 # LearningAI Lesson Library
 
-This folder contains 40 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+<!-- markdownlint-disable MD022 MD029 -->
+
+This folder contains 45 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -42,7 +44,7 @@ Build a solid understanding of AI basics and how to use it safely.
 ### Practical application (lessons 6-15)
 Learn specific ways to use AI for real tasks.
 
-6. [06-ai-at-work.md](06-ai-at-work.md) — Using AI for workplace tasks
+6. [06-using-ai-at-work.md](06-using-ai-at-work.md) — Using AI for workplace tasks
 7. [07-using-ai-for-writing.md](07-using-ai-for-writing.md) — AI for drafting and editing
 8. [08-using-ai-for-research.md](08-using-ai-for-research.md) — AI to gather and summarize information
 9. [09-ai-for-spreadsheets.md](09-ai-for-spreadsheets.md) — AI for working with data
@@ -66,7 +68,7 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 3 | [03-writing-better-prompts.md](03-writing-better-prompts.md) | Prompt engineering basics |
 | 4 | [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md) | Safe and secure AI use |
 | 5 | [05-understanding-ai-output.md](05-understanding-ai-output.md) | Evaluating AI responses |
-| 6 | [06-ai-at-work.md](06-ai-at-work.md) | Workplace productivity |
+| 6 | [06-using-ai-at-work.md](06-using-ai-at-work.md) | Workplace productivity |
 | 7 | [07-using-ai-for-writing.md](07-using-ai-for-writing.md) | Writing and editing |
 | 8 | [08-using-ai-for-research.md](08-using-ai-for-research.md) | Research and gathering information |
 | 9 | [09-ai-for-spreadsheets.md](09-ai-for-spreadsheets.md) | Data and spreadsheets |
@@ -112,6 +114,16 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 39 | [39-using-ai-for-household-organization.md](39-using-ai-for-household-organization.md) | Household systems and organization |
 | 40 | [40-using-ai-for-learning-new-hobbies.md](40-using-ai-for-learning-new-hobbies.md) | Hobby discovery and learning plans |
 
+### Communication and writing (lessons 41-45)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
+| 41 | [41-ai-for-email-writing.md](41-ai-for-email-writing.md) | Email drafting and clarity |
+| 42 | [42-ai-for-text-messages-and-short-replies.md](42-ai-for-text-messages-and-short-replies.md) | Concise replies and text messaging |
+| 43 | [43-ai-for-professional-communication.md](43-ai-for-professional-communication.md) | Workplace communication quality |
+| 44 | [44-ai-for-difficult-conversations.md](44-ai-for-difficult-conversations.md) | Preparing sensitive conversations |
+| 45 | [45-ai-for-giving-feedback.md](45-ai-for-giving-feedback.md) | Constructive feedback delivery |
+
 ## Lesson format
 
 Each lesson markdown file includes:
@@ -139,19 +151,19 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. The 40 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. The 45 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 
 To write a new lesson for this library:
 
-1. Open [lesson-template.md](../lessonscreation/lesson-template.md)
+1. Open [lesson-template.md](../prompts/lessonscreation/lesson-template.md)
 2. Follow the instructions and fill in all sections with substantive content
 3. Save as `NN-topic-name.md` in this folder (use the next available number)
 4. Update this README to include your lesson in the catalog
 5. Add cross-references in the "What to learn next" section of related lessons
 
-All lessons must follow the writing requirements and tone guidelines in [lesson-template.md](../lessonscreation/lesson-template.md).
+All lessons must follow the writing requirements and tone guidelines in [lesson-template.md](../prompts/lessonscreation/lesson-template.md).
 
 ## Related resources
 
@@ -159,3 +171,5 @@ See the parent directory for more context:
 
 - [../README.md](../README.md) — project overview and getting started
 - [../prompts/lessonscreation/lesson-template.md](../prompts/lessonscreation/lesson-template.md) — template and author guidelines
+
+<!-- markdownlint-enable MD022 MD029 -->

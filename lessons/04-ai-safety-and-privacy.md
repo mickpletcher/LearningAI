@@ -1,5 +1,7 @@
 # AI LESSON FILE
 
+<!-- markdownlint-disable MD024 MD025 MD032 MD047 -->
+
 ## Instructions for the assistant
 
 Treat this file as an interactive lesson script.
@@ -251,7 +253,7 @@ Remove names, account numbers, addresses, and other identifying details before s
 ## What to learn next
 
 - Read [05-understanding-ai-output.md](05-understanding-ai-output.md) to learn how to check whether AI output is reliable
-- Read [06-ai-at-work.md](06-ai-at-work.md) to see how privacy matters in workplace use
+- Read [06-using-ai-at-work.md](06-using-ai-at-work.md) to see how privacy matters in workplace use
 - Read [03-writing-better-prompts.md](03-writing-better-prompts.md) to write clearer prompts with less unnecessary detail
 
 ## Completion behavior
@@ -262,3 +264,5 @@ When the lesson is finished:
 - Suggest one practical action for today
 - Recommend the next lesson files
 - Ask whether the user wants to continue to the next lesson
+
+<!-- markdownlint-enable MD024 MD025 MD032 MD047 -->

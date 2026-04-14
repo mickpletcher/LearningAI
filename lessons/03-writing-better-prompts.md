@@ -1,5 +1,7 @@
 # AI LESSON FILE
 
+<!-- markdownlint-disable MD024 MD025 MD032 MD047 -->
+
 ## Instructions for the assistant
 
 Treat this file as an interactive lesson script.
@@ -288,7 +290,7 @@ Add specifics such as who it is for, what tone you want, how long it should be, 
 
 - Read [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md) to understand what is safe to share in prompts
 - Read [05-understanding-ai-output.md](05-understanding-ai-output.md) to learn how to check and improve AI results
-- Read [06-ai-at-work.md](06-ai-at-work.md) to see how strong prompts help with real work tasks
+- Read [06-using-ai-at-work.md](06-using-ai-at-work.md) to see how strong prompts help with real work tasks
 
 ## Completion behavior
 
@@ -298,3 +300,5 @@ When the lesson is finished:
 - Suggest one practical action for today
 - Recommend the next lesson files
 - Ask whether the user wants to continue to the next lesson
+
+<!-- markdownlint-enable MD024 MD025 MD032 MD047 -->

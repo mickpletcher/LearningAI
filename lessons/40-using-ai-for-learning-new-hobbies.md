@@ -1,5 +1,7 @@
 # AI LESSON FILE
 
+<!-- markdownlint-disable MD024 MD025 MD032 MD047 -->
+
 ## Instructions for the assistant
 
 Treat this file as an interactive lesson script.
@@ -289,3 +291,5 @@ When the lesson is finished:
 - Suggest one practical action for today
 - Recommend the next lesson files
 - Ask whether the user wants to continue to the next lesson
+
+<!-- markdownlint-enable MD024 MD025 MD032 MD047 -->

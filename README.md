@@ -4,7 +4,7 @@ An interactive markdown-based lesson library for learning AI fundamentals withou
 
 ## Overview
 
-LearningAI is a structured curriculum of 40 lessons designed to teach AI concepts and practical skills to complete beginners. Each lesson is a portable markdown file that runs as an interactive guided session in ChatGPT, Claude, Gemini, or Copilot.
+LearningAI is a structured curriculum of 45 lessons designed to teach AI concepts and practical skills to complete beginners. Each lesson is a portable markdown file that runs as an interactive guided session in ChatGPT, Claude, Gemini, or Copilot.
 
 Unlike generic prompt collections, these lessons include interaction rules, guided progression, state tracking, and supported commands. You paste a lesson file into an AI chat tool and work through structured, step-by-step learning with built-in exercises, checks, and guidance for what to learn next.
 
@@ -12,7 +12,7 @@ No coding. No setup. No account fees. Just copy, paste, and learn.
 
 ## Key features
 
-- **40 structured lessons** covering AI fundamentals, practical skills, and safety
+- **45 structured lessons** covering AI fundamentals, practical skills, and safety
 - **Interactive format** with guided progression, state management, and supported commands built into each lesson
 - **Beginner focused** written in plain language with real examples and practical exercises
 - **Portable** works in any AI chat tool that supports markdown
@@ -56,22 +56,22 @@ Work through these lessons in order. Each builds on the previous one.
 3. [03-writing-better-prompts.md](lessons/03-writing-better-prompts.md) — ask AI better questions
 4. [04-ai-safety-and-privacy.md](lessons/04-ai-safety-and-privacy.md) — use AI safely
 5. [05-understanding-ai-output.md](lessons/05-understanding-ai-output.md) — verify AI answers
-6. [06-ai-at-work.md](lessons/06-ai-at-work.md) — apply AI to common tasks
+6. [06-using-ai-at-work.md](lessons/06-using-ai-at-work.md) — apply AI to common tasks
 7. [07-using-ai-for-writing.md](lessons/07-using-ai-for-writing.md) — AI for draft writing
 8. [08-using-ai-for-research.md](lessons/08-using-ai-for-research.md) — AI for information gathering
 9. [09-ai-for-spreadsheets.md](lessons/09-ai-for-spreadsheets.md) — AI for data work
 10. [10-ai-for-coding-beginners.md](lessons/10-ai-for-coding-beginners.md) — no code required, but foundations
 
-After lesson 10, continue in numerical order or skip to topics that match your needs. All 40 lessons are available in [lessons/README.md](lessons/README.md).
+After lesson 10, continue in numerical order or skip to topics that match your needs. All 45 lessons are available in [lessons/README.md](lessons/README.md).
 
 ## Repository structure
 
 - **README.md** — this guide
 - **LESSON-TEMPLATE.md** — template and instructions for authors who want to create new lessons
 - **LICENSE** — MIT license
-- **lessons/** — all lesson files (01-40)
+- **lessons/** — all lesson files (01-45)
   - README.md — full lesson catalog and topic descriptions
-  - 01-what-is-ai.md through 40-using-ai-for-learning-new-hobbies.md — individual lesson files
+  - 01-what-is-ai.md through 45-ai-for-giving-feedback.md — individual lesson files
 
 ## Lesson format
 
@@ -104,7 +104,7 @@ The lessons assume you know nothing about AI but are capable and curious. They t
 
 ## Current status
 
-This is an actively maintained learning library. The core curriculum (40 foundational and practical lessons) is complete and stable. The library is expanding with additional lesson tracks for specialized topics.
+This is an actively maintained learning library. The core curriculum (45 foundational and practical lessons) is complete and stable. The library is expanding with additional lesson tracks for specialized topics.
 
 ## Contributing
 

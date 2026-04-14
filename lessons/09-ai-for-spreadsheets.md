@@ -1,5 +1,7 @@
 # AI LESSON FILE
 
+<!-- markdownlint-disable MD024 MD025 MD032 MD047 -->
+
 ## Instructions for the assistant
 
 Treat this file as an interactive lesson script.
@@ -257,7 +259,7 @@ You should check whether the formula matches your sheet structure, uses the righ
 
 - Read [08-using-ai-for-research.md](08-using-ai-for-research.md) to improve how you gather and organize information
 - Read [05-understanding-ai-output.md](05-understanding-ai-output.md) to review spreadsheet help more critically
-- Read [06-ai-at-work.md](06-ai-at-work.md) to see where spreadsheet help fits into real work
+- Read [06-using-ai-at-work.md](06-using-ai-at-work.md) to see where spreadsheet help fits into real work
 
 ## Completion behavior
 
@@ -267,3 +269,5 @@ When the lesson is finished:
 - Suggest one practical action for today
 - Recommend the next lesson files
 - Ask whether the user wants to continue to the next lesson
+
+<!-- markdownlint-enable MD024 MD025 MD032 MD047 -->

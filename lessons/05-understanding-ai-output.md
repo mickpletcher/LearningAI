@@ -1,5 +1,7 @@
 # AI LESSON FILE
 
+<!-- markdownlint-disable MD024 MD025 MD032 MD047 -->
+
 ## Instructions for the assistant
 
 Treat this file as an interactive lesson script.
@@ -250,7 +252,7 @@ It may be too vague, too generic, or missing the real context that matters for y
 
 ## What to learn next
 
-- Read [06-ai-at-work.md](06-ai-at-work.md) to apply this review skill to workplace tasks
+- Read [06-using-ai-at-work.md](06-using-ai-at-work.md) to apply this review skill to workplace tasks
 - Read [03-writing-better-prompts.md](03-writing-better-prompts.md) to get stronger output in the first place
 - Read [04-ai-safety-and-privacy.md](04-ai-safety-and-privacy.md) to handle both input and output more responsibly
 
@@ -262,3 +264,5 @@ When the lesson is finished:
 - Suggest one practical action for today
 - Recommend the next lesson files
 - Ask whether the user wants to continue to the next lesson
+
+<!-- markdownlint-enable MD024 MD025 MD032 MD047 -->
