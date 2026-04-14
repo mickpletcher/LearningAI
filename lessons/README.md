@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD022 MD029 -->
 
-This folder contains 90 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+This folder contains 100 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -184,6 +184,21 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 89 | [89-ai-for-documentation-review.md](89-ai-for-documentation-review.md) | Documentation review and quality checks |
 | 90 | [90-ai-for-technical-learning-without-a-technical-background.md](90-ai-for-technical-learning-without-a-technical-background.md) | Technical learning for non technical learners |
 
+### Critical thinking, limits, and responsible use (lessons 91-100)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
+| 91 | [91-how-to-fact-check-ai-answers.md](91-how-to-fact-check-ai-answers.md) | Fact checking AI generated answers |
+| 92 | [92-how-to-spot-hallucinations.md](92-how-to-spot-hallucinations.md) | Spotting hallucinations and unsupported claims |
+| 93 | [93-how-to-recognize-generic-output.md](93-how-to-recognize-generic-output.md) | Identifying and improving generic output |
+| 94 | [94-how-to-keep-your-own-voice-when-using-ai.md](94-how-to-keep-your-own-voice-when-using-ai.md) | Preserving your voice when using AI |
+| 95 | [95-how-to-use-ai-responsibly-at-work.md](95-how-to-use-ai-responsibly-at-work.md) | Responsible AI usage in workplace settings |
+| 96 | [96-how-to-use-ai-without-leaking-sensitive-information.md](96-how-to-use-ai-without-leaking-sensitive-information.md) | Preventing sensitive data leakage in prompts |
+| 97 | [97-how-to-decide-whether-ai-is-the-right-tool.md](97-how-to-decide-whether-ai-is-the-right-tool.md) | Deciding when AI is the right tool |
+| 98 | [98-building-a-personal-ai-workflow.md](98-building-a-personal-ai-workflow.md) | Building a repeatable personal AI workflow |
+| 99 | [99-building-a-team-ai-workflow.md](99-building-a-team-ai-workflow.md) | Building shared team AI workflows |
+| 100 | [100-the-future-of-ai-in-everyday-life-and-work.md](100-the-future-of-ai-in-everyday-life-and-work.md) | Future trends in AI for life and work |
+
 ## Lesson format
 
 Each lesson markdown file includes:
@@ -211,7 +226,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. All 90 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. All 100 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 
