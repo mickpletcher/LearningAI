@@ -114,7 +114,7 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 39 | [39-using-ai-for-household-organization.md](39-using-ai-for-household-organization.md) | Household systems and organization |
 | 40 | [40-using-ai-for-learning-new-hobbies.md](40-using-ai-for-learning-new-hobbies.md) | Hobby discovery and learning plans |
 
-### Communication and writing (lessons 41-80)
+### Communication and writing (lessons 41-55)
 
 | # | Lesson | Focus |
 | --- | --- | --- |
@@ -133,6 +133,11 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 53 | [53-ai-for-writing-clear-instructions.md](53-ai-for-writing-clear-instructions.md) | Writing clear instructions |
 | 54 | [54-ai-for-writing-reports-and-summaries.md](54-ai-for-writing-reports-and-summaries.md) | Reports and summaries |
 | 55 | [55-ai-for-writing-proposals.md](55-ai-for-writing-proposals.md) | Writing proposals |
+
+### Work and office productivity (lessons 56-70)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
 | 56 | [56-ai-for-meeting-notes.md](56-ai-for-meeting-notes.md) | Meeting notes and action capture |
 | 57 | [57-ai-for-project-management.md](57-ai-for-project-management.md) | Project planning and coordination |
 | 58 | [58-ai-for-task-prioritization.md](58-ai-for-task-prioritization.md) | Task prioritization and sequencing |
@@ -148,6 +153,11 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 68 | [68-ai-for-research-at-work.md](68-ai-for-research-at-work.md) | Workplace research and synthesis |
 | 69 | [69-ai-for-workplace-presentations.md](69-ai-for-workplace-presentations.md) | Presentation planning and delivery |
 | 70 | [70-ai-for-knowledge-management.md](70-ai-for-knowledge-management.md) | Knowledge organization and reuse |
+
+### Analysis and structured thinking (lessons 71-80)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
 | 71 | [71-ai-for-decision-support.md](71-ai-for-decision-support.md) | Decision support and option analysis |
 | 72 | [72-ai-for-problem-solving.md](72-ai-for-problem-solving.md) | Problem solving with structured thinking |
 | 73 | [73-ai-for-root-cause-thinking.md](73-ai-for-root-cause-thinking.md) | Root cause analysis and diagnosis |
