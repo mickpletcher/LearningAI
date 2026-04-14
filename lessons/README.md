@@ -114,7 +114,7 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 39 | [39-using-ai-for-household-organization.md](39-using-ai-for-household-organization.md) | Household systems and organization |
 | 40 | [40-using-ai-for-learning-new-hobbies.md](40-using-ai-for-learning-new-hobbies.md) | Hobby discovery and learning plans |
 
-### Communication and writing (lessons 41-45)
+### Communication and writing (lessons 41-55)
 
 | # | Lesson | Focus |
 | --- | --- | --- |
@@ -123,6 +123,16 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 43 | [43-ai-for-professional-communication.md](43-ai-for-professional-communication.md) | Workplace communication quality |
 | 44 | [44-ai-for-difficult-conversations.md](44-ai-for-difficult-conversations.md) | Preparing sensitive conversations |
 | 45 | [45-ai-for-giving-feedback.md](45-ai-for-giving-feedback.md) | Constructive feedback delivery |
+| 46 | [46-ai-for-resumes-and-cover-letters.md](46-ai-for-resumes-and-cover-letters.md) | Resume and cover letter writing |
+| 47 | [47-ai-for-linkedin-profiles.md](47-ai-for-linkedin-profiles.md) | LinkedIn profile optimization |
+| 48 | [48-ai-for-social-media-writing.md](48-ai-for-social-media-writing.md) | Social media post writing |
+| 49 | [49-ai-for-blog-writing.md](49-ai-for-blog-writing.md) | Blog post creation |
+| 50 | [50-ai-for-storytelling-and-creative-writing.md](50-ai-for-storytelling-and-creative-writing.md) | Storytelling and creative writing |
+| 51 | [51-ai-for-editing-your-own-writing.md](51-ai-for-editing-your-own-writing.md) | Self-editing and revision |
+| 52 | [52-ai-for-proofreading-and-grammar-review.md](52-ai-for-proofreading-and-grammar-review.md) | Proofreading and grammar |
+| 53 | [53-ai-for-writing-clear-instructions.md](53-ai-for-writing-clear-instructions.md) | Writing clear instructions |
+| 54 | [54-ai-for-writing-reports-and-summaries.md](54-ai-for-writing-reports-and-summaries.md) | Reports and summaries |
+| 55 | [55-ai-for-writing-proposals.md](55-ai-for-writing-proposals.md) | Writing proposals |
 
 ## Lesson format
 
@@ -151,7 +161,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. The 45 foundation and practical lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. All 55 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 

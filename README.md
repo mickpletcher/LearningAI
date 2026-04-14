@@ -4,7 +4,7 @@ An interactive markdown-based lesson library for learning AI fundamentals withou
 
 ## Overview
 
-LearningAI is a structured curriculum of 45 lessons designed to teach AI concepts and practical skills to complete beginners. Each lesson is a portable markdown file that runs as an interactive guided session in ChatGPT, Claude, Gemini, or Copilot.
+LearningAI is a structured curriculum of 55 lessons designed to teach AI concepts and practical skills to complete beginners. Each lesson is a portable markdown file that runs as an interactive guided session in ChatGPT, Claude, Gemini, or Copilot.
 
 Unlike generic prompt collections, these lessons include interaction rules, guided progression, state tracking, and supported commands. You paste a lesson file into an AI chat tool and work through structured, step-by-step learning with built-in exercises, checks, and guidance for what to learn next.
 
@@ -62,7 +62,7 @@ Work through these lessons in order. Each builds on the previous one.
 9. [09-ai-for-spreadsheets.md](lessons/09-ai-for-spreadsheets.md) — AI for data work
 10. [10-ai-for-coding-beginners.md](lessons/10-ai-for-coding-beginners.md) — no code required, but foundations
 
-After lesson 10, continue in numerical order or skip to topics that match your needs. All 45 lessons are available in [lessons/README.md](lessons/README.md).
+After lesson 10, continue in numerical order or skip to topics that match your needs. All 55 lessons are available in [lessons/README.md](lessons/README.md).
 
 ## Repository structure
 
@@ -71,7 +71,7 @@ After lesson 10, continue in numerical order or skip to topics that match your n
 - **LICENSE** — MIT license
 - **lessons/** — all lesson files (01-45)
   - README.md — full lesson catalog and topic descriptions
-  - 01-what-is-ai.md through 45-ai-for-giving-feedback.md — individual lesson files
+  - 01-what-is-ai.md through 55-ai-for-writing-proposals.md — individual lesson files
 
 ## Lesson format
 
