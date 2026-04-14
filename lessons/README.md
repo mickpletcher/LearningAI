@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD022 MD029 -->
 
-This folder contains 70 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+This folder contains 80 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -114,7 +114,7 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 39 | [39-using-ai-for-household-organization.md](39-using-ai-for-household-organization.md) | Household systems and organization |
 | 40 | [40-using-ai-for-learning-new-hobbies.md](40-using-ai-for-learning-new-hobbies.md) | Hobby discovery and learning plans |
 
-### Communication and writing (lessons 41-70)
+### Communication and writing (lessons 41-80)
 
 | # | Lesson | Focus |
 | --- | --- | --- |
@@ -148,6 +148,16 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 68 | [68-ai-for-research-at-work.md](68-ai-for-research-at-work.md) | Workplace research and synthesis |
 | 69 | [69-ai-for-workplace-presentations.md](69-ai-for-workplace-presentations.md) | Presentation planning and delivery |
 | 70 | [70-ai-for-knowledge-management.md](70-ai-for-knowledge-management.md) | Knowledge organization and reuse |
+| 71 | [71-ai-for-decision-support.md](71-ai-for-decision-support.md) | Decision support and option analysis |
+| 72 | [72-ai-for-problem-solving.md](72-ai-for-problem-solving.md) | Problem solving with structured thinking |
+| 73 | [73-ai-for-root-cause-thinking.md](73-ai-for-root-cause-thinking.md) | Root cause analysis and diagnosis |
+| 74 | [74-ai-for-swot-analysis.md](74-ai-for-swot-analysis.md) | SWOT based strategic analysis |
+| 75 | [75-ai-for-risk-identification.md](75-ai-for-risk-identification.md) | Risk identification and mitigation planning |
+| 76 | [76-ai-for-process-improvement.md](76-ai-for-process-improvement.md) | Process review and improvement planning |
+| 77 | [77-ai-for-comparing-vendors-and-tools.md](77-ai-for-comparing-vendors-and-tools.md) | Vendor and tool comparison |
+| 78 | [78-ai-for-building-evaluation-criteria.md](78-ai-for-building-evaluation-criteria.md) | Evaluation criteria design and scoring |
+| 79 | [79-ai-for-organizing-large-amounts-of-information.md](79-ai-for-organizing-large-amounts-of-information.md) | Organizing large information sets |
+| 80 | [80-ai-for-breaking-big-projects-into-steps.md](80-ai-for-breaking-big-projects-into-steps.md) | Breaking large projects into steps |
 
 ## Lesson format
 
@@ -176,7 +186,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. All 70 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. All 80 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 
