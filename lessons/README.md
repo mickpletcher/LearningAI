@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD022 MD029 -->
 
-This folder contains 80 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+This folder contains 90 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -169,6 +169,21 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 79 | [79-ai-for-organizing-large-amounts-of-information.md](79-ai-for-organizing-large-amounts-of-information.md) | Organizing large information sets |
 | 80 | [80-ai-for-breaking-big-projects-into-steps.md](80-ai-for-breaking-big-projects-into-steps.md) | Breaking large projects into steps |
 
+### Data, tools, and technical basics (lessons 81-90)
+
+| # | Lesson | Focus |
+| --- | --- | --- |
+| 81 | [81-ai-for-spreadsheets-and-formulas.md](81-ai-for-spreadsheets-and-formulas.md) | Spreadsheet formulas and troubleshooting |
+| 82 | [82-ai-for-data-cleanup.md](82-ai-for-data-cleanup.md) | Data cleaning and standardization |
+| 83 | [83-ai-for-charts-and-visualizations.md](83-ai-for-charts-and-visualizations.md) | Chart selection and data storytelling |
+| 84 | [84-ai-for-basic-automation-ideas.md](84-ai-for-basic-automation-ideas.md) | Basic automation opportunity planning |
+| 85 | [85-ai-for-writing-simple-scripts.md](85-ai-for-writing-simple-scripts.md) | Writing simple scripts for repetitive tasks |
+| 86 | [86-ai-for-debugging-beginner-code.md](86-ai-for-debugging-beginner-code.md) | Beginner code debugging workflow |
+| 87 | [87-ai-for-understanding-apis.md](87-ai-for-understanding-apis.md) | API basics and request understanding |
+| 88 | [88-ai-for-no-code-and-low-code-tools.md](88-ai-for-no-code-and-low-code-tools.md) | No code and low code workflow design |
+| 89 | [89-ai-for-documentation-review.md](89-ai-for-documentation-review.md) | Documentation review and quality checks |
+| 90 | [90-ai-for-technical-learning-without-a-technical-background.md](90-ai-for-technical-learning-without-a-technical-background.md) | Technical learning for non technical learners |
+
 ## Lesson format
 
 Each lesson markdown file includes:
@@ -196,7 +211,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. All 80 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. All 90 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 
