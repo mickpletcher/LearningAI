@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD022 MD029 -->
 
-This folder contains 45 interactive markdown-based lessons for learning AI fundamentals and practical skills.
+This folder contains 70 interactive markdown-based lessons for learning AI fundamentals and practical skills.
 
 Each lesson is a self-contained markdown file designed to be used as a guided learning session in ChatGPT, Claude, Gemini, or Copilot. No coding required. No installation needed. Copy the lesson file, paste it into your AI tool of choice, and start learning.
 
@@ -114,7 +114,7 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 39 | [39-using-ai-for-household-organization.md](39-using-ai-for-household-organization.md) | Household systems and organization |
 | 40 | [40-using-ai-for-learning-new-hobbies.md](40-using-ai-for-learning-new-hobbies.md) | Hobby discovery and learning plans |
 
-### Communication and writing (lessons 41-55)
+### Communication and writing (lessons 41-70)
 
 | # | Lesson | Focus |
 | --- | --- | --- |
@@ -133,6 +133,21 @@ After lesson 15, continue with the full catalog below. Lessons are cumulative bu
 | 53 | [53-ai-for-writing-clear-instructions.md](53-ai-for-writing-clear-instructions.md) | Writing clear instructions |
 | 54 | [54-ai-for-writing-reports-and-summaries.md](54-ai-for-writing-reports-and-summaries.md) | Reports and summaries |
 | 55 | [55-ai-for-writing-proposals.md](55-ai-for-writing-proposals.md) | Writing proposals |
+| 56 | [56-ai-for-meeting-notes.md](56-ai-for-meeting-notes.md) | Meeting notes and action capture |
+| 57 | [57-ai-for-project-management.md](57-ai-for-project-management.md) | Project planning and coordination |
+| 58 | [58-ai-for-task-prioritization.md](58-ai-for-task-prioritization.md) | Task prioritization and sequencing |
+| 59 | [59-ai-for-time-management.md](59-ai-for-time-management.md) | Time planning and focus management |
+| 60 | [60-ai-for-team-communication.md](60-ai-for-team-communication.md) | Team communication and alignment |
+| 61 | [61-ai-for-status-updates.md](61-ai-for-status-updates.md) | Status reporting and progress summaries |
+| 62 | [62-ai-for-internal-documentation.md](62-ai-for-internal-documentation.md) | Internal documentation quality |
+| 63 | [63-ai-for-customer-service-drafting.md](63-ai-for-customer-service-drafting.md) | Customer support response drafting |
+| 64 | [64-ai-for-sales-support.md](64-ai-for-sales-support.md) | Sales communication support |
+| 65 | [65-ai-for-marketing-ideas.md](65-ai-for-marketing-ideas.md) | Marketing brainstorming and messaging |
+| 66 | [66-ai-for-hr-and-people-operations.md](66-ai-for-hr-and-people-operations.md) | HR and people operations communication |
+| 67 | [67-ai-for-administrative-work.md](67-ai-for-administrative-work.md) | Administrative workflow support |
+| 68 | [68-ai-for-research-at-work.md](68-ai-for-research-at-work.md) | Workplace research and synthesis |
+| 69 | [69-ai-for-workplace-presentations.md](69-ai-for-workplace-presentations.md) | Presentation planning and delivery |
+| 70 | [70-ai-for-knowledge-management.md](70-ai-for-knowledge-management.md) | Knowledge organization and reuse |
 
 ## Lesson format
 
@@ -161,7 +176,7 @@ There is no penalty for moving slowly or revisiting lessons.
 
 ## Curriculum status
 
-This lesson library is actively maintained. All 55 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
+This lesson library is actively maintained. All 70 lessons are stable and complete. The curriculum is expanding with additional specialized tracks for educators, small business owners, and other focused audiences.
 
 ## Creating new lessons
 
